@@ -14,8 +14,6 @@ import android.provider.Settings
 import android.support.v7.app.AlertDialog
 import android.view.inputmethod.InputMethodManager
 import com.ww7h.ww.common.R
-import com.ww7h.ww.common.utils.Constant
-import com.ww7h.ww.common.utils.ConstantCode
 import kotlinx.android.synthetic.main.toolbar.*
 
 
